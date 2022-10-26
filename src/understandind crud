@@ -1,0 +1,4 @@
+create -- POST
+retrieve /list / search -- GET
+update -- PUT / Patch
+delete -- Delete
